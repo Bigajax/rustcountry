@@ -1,0 +1,618 @@
+{
+  "categorias": [
+    {
+      "id": "c-caveira-longhorn",
+      "nome": "Caveira longhorn",
+      "slug": "caveira-longhorn",
+      "ordem": 1,
+      "ativo": true,
+      "capa": "/produtos/calca-texas-farm-caveira-rosa.webp",
+      "capaBlur": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoJAAwAA4BaJYwCdAEOZwQXQAD+6sHZtIbGAE/yXn55imvN4vqAgPlk9f4G5wVazzrgxJsfsvB1uwAA"
+    },
+    {
+      "id": "c-penas",
+      "nome": "Penas",
+      "slug": "penas",
+      "ordem": 2,
+      "ativo": true,
+      "capa": "/produtos/calca-penas-coloridas.webp",
+      "capaBlur": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoJAAwAA4BaJQBOgCICq9b2KQAA/u6J8pQn5YcJIVoR83cUYx3FGNMu0hD40BdWPxG8gAAA"
+    },
+    {
+      "id": "c-asteca",
+      "nome": "Asteca",
+      "slug": "asteca",
+      "ordem": 3,
+      "ativo": true,
+      "capa": "/produtos/calca-ariat-asteca-dourada.webp",
+      "capaBlur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoJAAwAA4BaJaACdH8AGX9wE914AP7csf422n+cnOR9kkbjoxlEbY0EQO20JEyR+ttZ4leX91rNZBmJIy5MaFsAAAA="
+    },
+    {
+      "id": "c-linhas-e-riscos",
+      "nome": "Linhas e riscos",
+      "slug": "linhas-e-riscos",
+      "ordem": 4,
+      "ativo": true,
+      "capa": "/produtos/calca-ariat-chevron-rosa.webp",
+      "capaBlur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoJAAwAA4BaJQBOgB8xfPjagAD+QPr8WwegCHTfa/rNo/Cx1nxphPqaN26yJ5U62LEQdbAoxdJsBjsOqAAAAA=="
+    }
+  ],
+  "produtos": [
+    {
+      "id": "p-001",
+      "codigo": "RC-0001",
+      "nome": "Calça Texas Farm caveira rosa",
+      "slug": "calca-texas-farm-caveira-rosa",
+      "descricao": "A caveira longhorn bordada em rosa e branco no bolso de trás, flare de cintura alta e lavagem clara. É a calça da foto da cavalgada: com bota, chapéu e cropped marrom.",
+      "marca": "Texas Farm",
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "caveira-longhorn",
+      "tamanhos": [],
+      "cores": [],
+      "linha": "flare, cintura alta",
+      "bordado": "caveira longhorn em rosa e branco no bolso",
+      "foco": 0.62,
+      "zoom": 2.6,
+      "destaque": true,
+      "ativo": true,
+      "ordem": 1,
+      "imagens": [
+        {
+          "url": "/produtos/calca-texas-farm-caveira-rosa.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoJAAwAA4BaJYwCdAEOZwQXQAD+6sHZtIbGAE/yXn55imvN4vqAgPlk9f4G5wVazzrgxJsfsvB1uwAA",
+          "alt": "Calça Texas Farm caveira rosa",
+          "ordem": 0
+        },
+        {
+          "url": "/produtos/calca-texas-farm-caveira-rosa-2.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoJAAwAA4BaJYwCdADcYT0tXgAA/ltuATLSUhXMvwXdXbaECowjhgV+9BTOOmQGf7H0b1/Y5otHqkoJJAIAK5+GOwFdIHsBtxAAAA==",
+          "alt": "Calça Texas Farm caveira rosa",
+          "ordem": 1
+        }
+      ]
+    },
+    {
+      "id": "p-002",
+      "codigo": "RC-0002",
+      "nome": "Calça Ariat caveira longhorn",
+      "slug": "calca-ariat-caveira-longhorn",
+      "descricao": "Lavagem média, a caveira longhorn bordada em linha branca nos dois bolsos e a etiqueta de couro Ariat na cintura. Lançamento da Ariat.",
+      "marca": "Ariat",
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "caveira-longhorn",
+      "tamanhos": [],
+      "cores": [],
+      "linha": "cintura alta",
+      "bordado": "caveira longhorn em branco no bolso e etiqueta Ariat",
+      "foco": 0.5,
+      "zoom": null,
+      "destaque": true,
+      "ativo": true,
+      "ordem": 2,
+      "imagens": [
+        {
+          "url": "/produtos/calca-ariat-caveira-longhorn.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoJAAwAA4BaJbACdADdYE/eg8AA+vJ6JX9jic6SlMXcVoDwhCuxwoVBNEt3XdROW4Ej6GhPAkzkzhFKYvXDCH2RaQAAAA==",
+          "alt": "Calça Ariat caveira longhorn",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-003",
+      "codigo": "RC-0003",
+      "nome": "Calça Texas Farm caveira dupla",
+      "slug": "calca-texas-farm-caveira-dupla",
+      "descricao": "Os dois bolsos com a caveira longhorn bordada em preto e branco e o pesponto claro contornando. Lançamento da Texas Farm.",
+      "marca": "Texas Farm",
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "caveira-longhorn",
+      "tamanhos": [],
+      "cores": [],
+      "linha": null,
+      "bordado": "caveira longhorn com detalhes em preto nos dois bolsos",
+      "foco": 0.5,
+      "zoom": null,
+      "destaque": false,
+      "ativo": true,
+      "ordem": 102,
+      "imagens": [
+        {
+          "url": "/produtos/calca-texas-farm-caveira-dupla.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoJAAwAA4BaJagCdAYn+TX8tQAA/SjHYF8r3e4XcWXY/PBBr0zU5SR9z7z5Alh2QOvv7pYfHWxhKsYsPDyAAA==",
+          "alt": "Calça Texas Farm caveira dupla",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-004",
+      "codigo": "RC-0004",
+      "nome": "Calça caveira com flores",
+      "slug": "calca-caveira-com-flores",
+      "descricao": "A caveira longhorn cercada de flores bordadas em vermelho, azul e branco no bolso de trás, lavagem média. A loja trabalha com Zens, Ariat, Texas Farm e Big Country: pergunte a marca desta na mensagem.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "caveira-longhorn",
+      "tamanhos": [],
+      "cores": [],
+      "linha": null,
+      "bordado": "caveira longhorn com flores em vermelho, azul e branco",
+      "foco": 0.5,
+      "zoom": null,
+      "destaque": false,
+      "ativo": true,
+      "ordem": 103,
+      "imagens": [
+        {
+          "url": "/produtos/calca-caveira-com-flores.webp",
+          "largura": 1066,
+          "altura": 1421,
+          "blur": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoJAAwAA4BaJaACdADdjhaJYAD+wgJtREc9IlvoB74iSiLF0pgMtzWfUa90lnpspZ/2wniDveqWGAAA",
+          "alt": "Calça caveira com flores",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-005",
+      "codigo": "RC-0005",
+      "nome": "Calça penas coloridas",
+      "slug": "calca-penas-coloridas",
+      "descricao": "Lavagem escura com três penas bordadas em rosa, verde e laranja no bolso de trás e o pesponto contornando. Na foto, com a camiseta Texas Farm e o chapéu preto.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "penas",
+      "tamanhos": [],
+      "cores": [],
+      "linha": "flare, lavagem escura",
+      "bordado": "três penas coloridas no bolso de trás",
+      "foco": 0.6,
+      "zoom": 2.4,
+      "destaque": true,
+      "ativo": true,
+      "ordem": 3,
+      "imagens": [
+        {
+          "url": "/produtos/calca-penas-coloridas.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoJAAwAA4BaJQBOgCICq9b2KQAA/u6J8pQn5YcJIVoR83cUYx3FGNMu0hD40BdWPxG8gAAA",
+          "alt": "Calça penas coloridas",
+          "ordem": 0
+        },
+        {
+          "url": "/produtos/calca-penas-coloridas-2.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoJAAwAA4BaJQBOgB8xV2WEmAAA/uQyeFcuDMbSSEYrfeAHhC61sEafXI4tO4fX7mUBXzIWSB+RPE0AAAA=",
+          "alt": "Calça penas coloridas",
+          "ordem": 1
+        },
+        {
+          "url": "/produtos/calca-penas-coloridas-3.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoJAAwAA4BaJQBOgCIfp4eqkCAA/u6sS9GbtNxzsKDugWQ1KNziMZIjTdQcKcP97oAAAA==",
+          "alt": "Calça penas coloridas",
+          "ordem": 2
+        }
+      ]
+    },
+    {
+      "id": "p-006",
+      "codigo": "RC-0006",
+      "nome": "Calça penas azuis",
+      "slug": "calca-penas-azuis",
+      "descricao": "As penas bordadas em azul, branco e dourado descendo do bolso da frente, lavagem escura e cinto de couro. Das marcas que a loja trabalha: Zens, Ariat, Texas Farm e Big Country.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "penas",
+      "tamanhos": [],
+      "cores": [],
+      "linha": null,
+      "bordado": "penas em azul, branco e dourado no bolso da frente",
+      "foco": 0.5,
+      "zoom": null,
+      "destaque": false,
+      "ativo": true,
+      "ordem": 105,
+      "imagens": [
+        {
+          "url": "/produtos/calca-penas-azuis.webp",
+          "largura": 1066,
+          "altura": 1421,
+          "blur": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoJAAwAA4BaJQBOgCHgT0dNQAD+iYIzvOro05H966BCi60SvaAEq49+hrRGniJXDfBJb8AA",
+          "alt": "Calça penas azuis",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-007",
+      "codigo": "RC-0007",
+      "nome": "Calça Ariat asteca dourada",
+      "slug": "calca-ariat-asteca-dourada",
+      "descricao": "Os losangos astecas bordados em dourado e branco nos bolsos de trás e no da frente, lavagem escura. Ariat feminina bordada, como diz o post.",
+      "marca": "Ariat",
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "asteca",
+      "tamanhos": [],
+      "cores": [],
+      "linha": null,
+      "bordado": "losangos astecas em dourado e branco nos bolsos",
+      "foco": 0.5,
+      "zoom": null,
+      "destaque": true,
+      "ativo": true,
+      "ordem": 4,
+      "imagens": [
+        {
+          "url": "/produtos/calca-ariat-asteca-dourada.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoJAAwAA4BaJaACdH8AGX9wE914AP7csf422n+cnOR9kkbjoxlEbY0EQO20JEyR+ttZ4leX91rNZBmJIy5MaFsAAAA=",
+          "alt": "Calça Ariat asteca dourada",
+          "ordem": 0
+        },
+        {
+          "url": "/produtos/calca-ariat-asteca-dourada-2.webp",
+          "largura": 1131,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoJAAwAA4BaJagCdAEXfqyhe1wAAP7b5jqwSlk2d2XyeuFl6VR3P/Lxbz3sGAI1v5qPOPzzyb6sd6DEKuOGB9RDKHQQb1TuAAA=",
+          "alt": "Calça Ariat asteca dourada",
+          "ordem": 1
+        }
+      ]
+    },
+    {
+      "id": "p-008",
+      "codigo": "RC-0008",
+      "nome": "Calça Real asteca",
+      "slug": "calca-real-asteca",
+      "descricao": "O bordado asteca em dourado e branco no bolso da frente, na barra do cós e nos passantes, com a etiqueta Real. Lavagem escura.",
+      "marca": "Real",
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "asteca",
+      "tamanhos": [],
+      "cores": [],
+      "linha": null,
+      "bordado": "asteca em dourado e branco no bolso da frente e no cós",
+      "foco": 0.5,
+      "zoom": null,
+      "destaque": false,
+      "ativo": true,
+      "ordem": 107,
+      "imagens": [
+        {
+          "url": "/produtos/calca-real-asteca.webp",
+          "largura": 1131,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoJAAwAA4BaJaACdADheyCbE5wA/h53wnNzxeKX/C/NEMNHingXeySYynh1GuLMRBwuk5IdT38JEMCaEsPhUmV4zmAAAA==",
+          "alt": "Calça Real asteca",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-009",
+      "codigo": "RC-0009",
+      "nome": "Calça bordado Nossa Senhora",
+      "slug": "calca-bordado-nossa-senhora",
+      "descricao": "A imagem de Nossa Senhora Aparecida bordada em raios dourados e azuis na perna, lavagem escura. Feminina, como o post diz.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "linhas-e-riscos",
+      "tamanhos": [],
+      "cores": [],
+      "linha": null,
+      "bordado": "Nossa Senhora Aparecida em raios dourados",
+      "foco": 0.5,
+      "zoom": null,
+      "destaque": false,
+      "ativo": true,
+      "ordem": 108,
+      "imagens": [
+        {
+          "url": "/produtos/calca-bordado-nossa-senhora.webp",
+          "largura": 720,
+          "altura": 1280,
+          "blur": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoHAAwAA4BaJYwCdAEDmZn2AAD+JIwjPxgTsw2975PkKZeKhjeA2IAA",
+          "alt": "Calça bordado Nossa Senhora",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-010",
+      "codigo": "RC-0010",
+      "nome": "Calça Ariat chevron rosa",
+      "slug": "calca-ariat-chevron-rosa",
+      "descricao": "Straight leg da Ariat (a etiqueta diz: reta do quadril à coxa), lavagem escura marmorizada, o chevron bordado em rosa e branco no bolso de trás. Na outra foto, a pilha com as etiquetas Ariat, Texas Farm e Zens.",
+      "marca": "Ariat",
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "linhas-e-riscos",
+      "tamanhos": [],
+      "cores": [],
+      "linha": "straight leg, corte reto",
+      "bordado": "chevron em rosa e branco no bolso",
+      "foco": 0.5,
+      "zoom": null,
+      "destaque": true,
+      "ativo": true,
+      "ordem": 5,
+      "imagens": [
+        {
+          "url": "/produtos/calca-ariat-chevron-rosa.webp",
+          "largura": 941,
+          "altura": 1254,
+          "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoJAAwAA4BaJQBOgB8xfPjagAD+QPr8WwegCHTfa/rNo/Cx1nxphPqaN26yJ5U62LEQdbAoxdJsBjsOqAAAAA==",
+          "alt": "Calça Ariat chevron rosa",
+          "ordem": 0
+        },
+        {
+          "url": "/produtos/calca-ariat-chevron-rosa-2.webp",
+          "largura": 1086,
+          "altura": 1448,
+          "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoJAAwAA4BaJZQCdAEedXM0sYDnAAD+6VdMw+kNPFxAJTKDShmSdxpHMkj01hBuhqvCdyHyIIq8PyHYjf/bjlhmIpruGKiPAWei4BGaBmZ+BdQAAAA=",
+          "alt": "Calça Ariat chevron rosa",
+          "ordem": 1
+        }
+      ]
+    },
+    {
+      "id": "p-011",
+      "codigo": "RC-0011",
+      "nome": "Calça bolso rosa contornado",
+      "slug": "calca-bolso-rosa-contornado",
+      "descricao": "O bolso de trás contornado em linha dupla rosa e branca, com a pena pequena no canto, lavagem média. Das marcas que a loja trabalha: Zens, Ariat, Texas Farm e Big Country.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "linhas-e-riscos",
+      "tamanhos": [],
+      "cores": [],
+      "linha": null,
+      "bordado": "contorno duplo em rosa e branco no bolso",
+      "foco": 0.5,
+      "zoom": null,
+      "destaque": false,
+      "ativo": true,
+      "ordem": 110,
+      "imagens": [
+        {
+          "url": "/produtos/calca-bolso-rosa-contornado.webp",
+          "largura": 1066,
+          "altura": 1421,
+          "blur": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoJAAwAA4BaJYgCdADcNtmzQAAA/uUIXfDm7zjXR12VKWjHdBD4XLYOV3OPyIJTOWQeaalyAAA=",
+          "alt": "Calça bolso rosa contornado",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-012",
+      "codigo": "RC-0012",
+      "nome": "Calça Big Country laranja",
+      "slug": "calca-big-country-laranja",
+      "descricao": "Os riscos geométricos em laranja e branco no bolso de trás e o cavaleiro bordado no canto, lavagem clara. Big Country.",
+      "marca": "Big Country",
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "linhas-e-riscos",
+      "tamanhos": [],
+      "cores": [],
+      "linha": null,
+      "bordado": "riscos laranja e o cavaleiro no bolso",
+      "foco": 0.5,
+      "zoom": null,
+      "destaque": false,
+      "ativo": true,
+      "ordem": 111,
+      "imagens": [
+        {
+          "url": "/produtos/calca-big-country-laranja.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoJAAwAA4BaJZACdH8G6AAt4P18sADifBqq9sYfxr5R653beQN0rXsy5Ueqt1AHLcySvGJqKDmkA8cyWpWaJBUwiFGjtPkOr5Da7oEz2wAAAA==",
+          "alt": "Calça Big Country laranja",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-013",
+      "codigo": "RC-0013",
+      "nome": "Calça Bill Way pesponto rosa",
+      "slug": "calca-bill-way-pesponto-rosa",
+      "descricao": "O bolso de trás com o pesponto duplo em rosa e branco e a etiqueta preta Bill Way, lavagem clara.",
+      "marca": "Bill Way",
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "linhas-e-riscos",
+      "tamanhos": [],
+      "cores": [],
+      "linha": null,
+      "bordado": "pesponto em rosa e branco no bolso",
+      "foco": 0.5,
+      "zoom": null,
+      "destaque": false,
+      "ativo": true,
+      "ordem": 112,
+      "imagens": [
+        {
+          "url": "/produtos/calca-bill-way-pesponto-rosa.webp",
+          "largura": 900,
+          "altura": 1200,
+          "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoJAAwAA4BaJaACdADZdgZAAADeHzGG0eqeT2p34NZI3JE49VYGO8WH4a289vK40iBwmjy4xJMj3Pn3KJ/RsS2JNtPAtQAA",
+          "alt": "Calça Bill Way pesponto rosa",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-014",
+      "codigo": "RC-0014",
+      "nome": "Calça Bill Way triângulo amarelo",
+      "slug": "calca-bill-way-triangulo-amarelo",
+      "descricao": "O triângulo bordado em amarelo e branco no bolso de trás, com as linhas em degradê, lavagem clara e a etiqueta Bill Way.",
+      "marca": "Bill Way",
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "linhas-e-riscos",
+      "tamanhos": [],
+      "cores": [],
+      "linha": null,
+      "bordado": "triângulo em amarelo e branco no bolso",
+      "foco": 0.5,
+      "zoom": null,
+      "destaque": false,
+      "ativo": true,
+      "ordem": 113,
+      "imagens": [
+        {
+          "url": "/produtos/calca-bill-way-triangulo-amarelo.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoJAAwAA4BaJYgCdADZgyGAAP7pKUI/nBwiz4iGg02yxQpNfYw2t36QqfXOLig4KWAAAA==",
+          "alt": "Calça Bill Way triângulo amarelo",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-015",
+      "codigo": "RC-0015",
+      "nome": "Calça bordado verde",
+      "slug": "calca-bordado-verde",
+      "descricao": "Os riscos bordados em verde-limão e branco no bolso de trás e no da frente, com a marca do ferro no canto. Lançamento, como diz o post: pergunte a marca na mensagem.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "linhas-e-riscos",
+      "tamanhos": [],
+      "cores": [],
+      "linha": null,
+      "bordado": "riscos em verde e branco no bolso e na frente",
+      "foco": 0.5,
+      "zoom": null,
+      "destaque": false,
+      "ativo": true,
+      "ordem": 114,
+      "imagens": [
+        {
+          "url": "/produtos/calca-bordado-verde.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoJAAwAA4BaJZgCdACR/GlgAP2UR3y/Ox8PVY5d4rpRHxdJbTFKrSREF/4vwmSpQdvKnsV5zACVyYP5G9WJ4znWVHz14AAA",
+          "alt": "Calça bordado verde",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-016",
+      "codigo": "RC-0016",
+      "nome": "Calça Texas Farm turquesa",
+      "slug": "calca-texas-farm-turquesa",
+      "descricao": "O bolso de trás bordado inteiro em turquesa, marrom e branco, com as penas pequenas descendo, e a etiqueta Texas Farm na cintura. Lavagem média.",
+      "marca": "Texas Farm",
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "linhas-e-riscos",
+      "tamanhos": [],
+      "cores": [],
+      "linha": null,
+      "bordado": "bolso turquesa com penas e o V em marrom",
+      "foco": 0.5,
+      "zoom": null,
+      "destaque": true,
+      "ativo": true,
+      "ordem": 6,
+      "imagens": [
+        {
+          "url": "/produtos/calca-texas-farm-turquesa.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoJAAwAA4BaJaACdADbUsYAAP51TL8qd3M9ItgmXRqrsy/Nb9pFPkbiq7jNbQMx9Ue65cboAAA=",
+          "alt": "Calça Texas Farm turquesa",
+          "ordem": 0
+        }
+      ]
+    }
+  ],
+  "hero": [
+    {
+      "url": "/produtos/calca-texas-farm-caveira-rosa.webp",
+      "largura": 1125,
+      "altura": 1500,
+      "blur": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoJAAwAA4BaJYwCdAEOZwQXQAD+6sHZtIbGAE/yXn55imvN4vqAgPlk9f4G5wVazzrgxJsfsvB1uwAA",
+      "alt": "Calça Texas Farm caveira rosa",
+      "ordem": 0,
+      "slug": "calca-texas-farm-caveira-rosa"
+    },
+    {
+      "url": "/produtos/calca-ariat-caveira-longhorn.webp",
+      "largura": 1125,
+      "altura": 1500,
+      "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoJAAwAA4BaJbACdADdYE/eg8AA+vJ6JX9jic6SlMXcVoDwhCuxwoVBNEt3XdROW4Ej6GhPAkzkzhFKYvXDCH2RaQAAAA==",
+      "alt": "Calça Ariat caveira longhorn",
+      "ordem": 0,
+      "slug": "calca-ariat-caveira-longhorn"
+    },
+    {
+      "url": "/produtos/calca-penas-coloridas.webp",
+      "largura": 1125,
+      "altura": 1500,
+      "blur": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoJAAwAA4BaJQBOgCICq9b2KQAA/u6J8pQn5YcJIVoR83cUYx3FGNMu0hD40BdWPxG8gAAA",
+      "alt": "Calça penas coloridas",
+      "ordem": 0,
+      "slug": "calca-penas-coloridas"
+    },
+    {
+      "url": "/produtos/calca-ariat-asteca-dourada.webp",
+      "largura": 1125,
+      "altura": 1500,
+      "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoJAAwAA4BaJaACdH8AGX9wE914AP7csf422n+cnOR9kkbjoxlEbY0EQO20JEyR+ttZ4leX91rNZBmJIy5MaFsAAAA=",
+      "alt": "Calça Ariat asteca dourada",
+      "ordem": 0,
+      "slug": "calca-ariat-asteca-dourada"
+    },
+    {
+      "url": "/produtos/calca-ariat-chevron-rosa.webp",
+      "largura": 941,
+      "altura": 1254,
+      "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoJAAwAA4BaJQBOgB8xfPjagAD+QPr8WwegCHTfa/rNo/Cx1nxphPqaN26yJ5U62LEQdbAoxdJsBjsOqAAAAA==",
+      "alt": "Calça Ariat chevron rosa",
+      "ordem": 0,
+      "slug": "calca-ariat-chevron-rosa"
+    },
+    {
+      "url": "/produtos/calca-texas-farm-turquesa.webp",
+      "largura": 1125,
+      "altura": 1500,
+      "blur": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoJAAwAA4BaJaACdADbUsYAAP51TL8qd3M9ItgmXRqrsy/Nb9pFPkbiq7jNbQMx9Ue65cboAAA=",
+      "alt": "Calça Texas Farm turquesa",
+      "ordem": 0,
+      "slug": "calca-texas-farm-turquesa"
+    }
+  ]
+}

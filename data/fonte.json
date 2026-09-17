@@ -1,0 +1,146 @@
+{
+  "origem": "_fonte/rust",
+  "categorias": ["Caveira longhorn", "Penas", "Asteca", "Linhas e riscos"],
+  "itens": [
+    {
+      "nome": "Calça Texas Farm caveira rosa",
+      "categoria": "Caveira longhorn",
+      "marca": "Texas Farm",
+      "local": "19.jpg",
+      "extras": ["20.jpg"],
+      "linha": "flare, cintura alta",
+      "bordado": "caveira longhorn em rosa e branco no bolso",
+      "descricao": "A caveira longhorn bordada em rosa e branco no bolso de trás, flare de cintura alta e lavagem clara. É a calça da foto da cavalgada: com bota, chapéu e cropped marrom.",
+      "foco": 0.62,
+      "zoom": 2.6,
+      "destaque": true
+    },
+    {
+      "nome": "Calça Ariat caveira longhorn",
+      "categoria": "Caveira longhorn",
+      "marca": "Ariat",
+      "local": "15.jpg",
+      "linha": "cintura alta",
+      "bordado": "caveira longhorn em branco no bolso e etiqueta Ariat",
+      "descricao": "Lavagem média, a caveira longhorn bordada em linha branca nos dois bolsos e a etiqueta de couro Ariat na cintura. Lançamento da Ariat.",
+      "destaque": true
+    },
+    {
+      "nome": "Calça Texas Farm caveira dupla",
+      "categoria": "Caveira longhorn",
+      "marca": "Texas Farm",
+      "local": "18.jpg",
+      "bordado": "caveira longhorn com detalhes em preto nos dois bolsos",
+      "descricao": "Os dois bolsos com a caveira longhorn bordada em preto e branco e o pesponto claro contornando. Lançamento da Texas Farm."
+    },
+    {
+      "nome": "Calça caveira com flores",
+      "categoria": "Caveira longhorn",
+      "local": "04.jpg",
+      "bordado": "caveira longhorn com flores em vermelho, azul e branco",
+      "descricao": "A caveira longhorn cercada de flores bordadas em vermelho, azul e branco no bolso de trás, lavagem média. A loja trabalha com Zens, Ariat, Texas Farm e Big Country: pergunte a marca desta na mensagem."
+    },
+    {
+      "nome": "Calça penas coloridas",
+      "categoria": "Penas",
+      "local": "12.jpg",
+      "extras": ["13.jpg", "14.jpg"],
+      "linha": "flare, lavagem escura",
+      "bordado": "três penas coloridas no bolso de trás",
+      "descricao": "Lavagem escura com três penas bordadas em rosa, verde e laranja no bolso de trás e o pesponto contornando. Na foto, com a camiseta Texas Farm e o chapéu preto.",
+      "foco": 0.6,
+      "zoom": 2.4,
+      "destaque": true
+    },
+    {
+      "nome": "Calça penas azuis",
+      "categoria": "Penas",
+      "local": "03.jpg",
+      "bordado": "penas em azul, branco e dourado no bolso da frente",
+      "descricao": "As penas bordadas em azul, branco e dourado descendo do bolso da frente, lavagem escura e cinto de couro. Das marcas que a loja trabalha: Zens, Ariat, Texas Farm e Big Country."
+    },
+    {
+      "nome": "Calça Ariat asteca dourada",
+      "categoria": "Asteca",
+      "marca": "Ariat",
+      "local": "06.jpg",
+      "extras": ["08.jpg"],
+      "bordado": "losangos astecas em dourado e branco nos bolsos",
+      "descricao": "Os losangos astecas bordados em dourado e branco nos bolsos de trás e no da frente, lavagem escura. Ariat feminina bordada, como diz o post.",
+      "destaque": true
+    },
+    {
+      "nome": "Calça Real asteca",
+      "categoria": "Asteca",
+      "marca": "Real",
+      "local": "07.jpg",
+      "bordado": "asteca em dourado e branco no bolso da frente e no cós",
+      "descricao": "O bordado asteca em dourado e branco no bolso da frente, na barra do cós e nos passantes, com a etiqueta Real. Lavagem escura."
+    },
+    {
+      "nome": "Calça bordado Nossa Senhora",
+      "categoria": "Linhas e riscos",
+      "local": "00.jpg",
+      "bordado": "Nossa Senhora Aparecida em raios dourados",
+      "descricao": "A imagem de Nossa Senhora Aparecida bordada em raios dourados e azuis na perna, lavagem escura. Feminina, como o post diz."
+    },
+    {
+      "nome": "Calça Ariat chevron rosa",
+      "categoria": "Linhas e riscos",
+      "marca": "Ariat",
+      "local": "02.jpg",
+      "extras": ["01.jpg"],
+      "linha": "straight leg, corte reto",
+      "bordado": "chevron em rosa e branco no bolso",
+      "descricao": "Straight leg da Ariat (a etiqueta diz: reta do quadril à coxa), lavagem escura marmorizada, o chevron bordado em rosa e branco no bolso de trás. Na outra foto, a pilha com as etiquetas Ariat, Texas Farm e Zens.",
+      "destaque": true
+    },
+    {
+      "nome": "Calça bolso rosa contornado",
+      "categoria": "Linhas e riscos",
+      "local": "05.jpg",
+      "bordado": "contorno duplo em rosa e branco no bolso",
+      "descricao": "O bolso de trás contornado em linha dupla rosa e branca, com a pena pequena no canto, lavagem média. Das marcas que a loja trabalha: Zens, Ariat, Texas Farm e Big Country."
+    },
+    {
+      "nome": "Calça Big Country laranja",
+      "categoria": "Linhas e riscos",
+      "marca": "Big Country",
+      "local": "09.jpg",
+      "bordado": "riscos laranja e o cavaleiro no bolso",
+      "descricao": "Os riscos geométricos em laranja e branco no bolso de trás e o cavaleiro bordado no canto, lavagem clara. Big Country."
+    },
+    {
+      "nome": "Calça Bill Way pesponto rosa",
+      "categoria": "Linhas e riscos",
+      "marca": "Bill Way",
+      "local": "10.jpg",
+      "bordado": "pesponto em rosa e branco no bolso",
+      "descricao": "O bolso de trás com o pesponto duplo em rosa e branco e a etiqueta preta Bill Way, lavagem clara."
+    },
+    {
+      "nome": "Calça Bill Way triângulo amarelo",
+      "categoria": "Linhas e riscos",
+      "marca": "Bill Way",
+      "local": "11.jpg",
+      "bordado": "triângulo em amarelo e branco no bolso",
+      "descricao": "O triângulo bordado em amarelo e branco no bolso de trás, com as linhas em degradê, lavagem clara e a etiqueta Bill Way."
+    },
+    {
+      "nome": "Calça bordado verde",
+      "categoria": "Linhas e riscos",
+      "local": "16.jpg",
+      "bordado": "riscos em verde e branco no bolso e na frente",
+      "descricao": "Os riscos bordados em verde-limão e branco no bolso de trás e no da frente, com a marca do ferro no canto. Lançamento, como diz o post: pergunte a marca na mensagem."
+    },
+    {
+      "nome": "Calça Texas Farm turquesa",
+      "categoria": "Linhas e riscos",
+      "marca": "Texas Farm",
+      "local": "17.jpg",
+      "bordado": "bolso turquesa com penas e o V em marrom",
+      "descricao": "O bolso de trás bordado inteiro em turquesa, marrom e branco, com as penas pequenas descendo, e a etiqueta Texas Farm na cintura. Lavagem média.",
+      "destaque": true
+    }
+  ]
+}
